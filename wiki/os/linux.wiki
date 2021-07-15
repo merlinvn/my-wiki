@@ -3,6 +3,8 @@
 * [[Installation]]
 * [[paru]] -- Package manager for the AUR ( as `yay` is not updating anymore and as a replacement for `pacman` as well)
 * [[Installing xorg and window manager]]
+* [[Manjaro Setup]]
+
 
 = Tiling Windows Manager =
 
