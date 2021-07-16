@@ -10,10 +10,17 @@ makepkg -si
 git clone git@github.com:merlinvn/dotfiles.git
 
 * Install zsh, starship, fzf
+
 * Setup dotfiles (setup.sh)
+
 * Install neovim, clang, go, autojump
+
 * Install python3 provider for neovim (paru pynvim)
+
 * Clone vimwiki
 git clone git@github.com:merlinvn/wiki.git vimwiki
-*
+
+* Install alacritty & Mononoki Nerd Font
+paru alacritty
+paru  Mononoki Nerd Font
 
