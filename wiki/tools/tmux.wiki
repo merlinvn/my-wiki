@@ -1,0 +1,4 @@
+* Windows
+Ctrl+b c : create window
+
+Ctrl+b 0..9: select windows

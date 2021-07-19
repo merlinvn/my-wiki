@@ -9,6 +9,7 @@
 == Tools ==
 
 * [[tools/Vim|vim]]
+* [[tools/tmux|tmux]]
 * [[tools/rbenv|rbenv]]
 * [[tools/virtualization|virtualization]] -- QEMU + libvirt + minikube + vagrant
 

@@ -1,0 +1,8 @@
+Just simply create folders (each for each app config} and call `stow folder_name`.
+
+Stow will make symlink for everything in the folder to home folder.
+
+Ex:
+
+
+
